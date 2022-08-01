@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: Inter, sans-serif;
+  }
+}
+
+.bg-image {
+  background: no-repeat url("https://i.ibb.co/Mn6md3M/react-icon-large.png")
+    right 75%;
+}
+
+.main--list {
+  list-style: disc;
+}
+
+.main--list > li {
+  padding-block: 1rem;
+}
+
+.main--list > li::marker {
+  font-size: 1.25rem;
+  color: #61dafb;
+}
