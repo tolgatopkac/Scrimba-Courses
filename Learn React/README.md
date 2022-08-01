@@ -12,3 +12,8 @@
 | Project Name                |                                      Preview                                      |           Tools            |                                                Figma                                                 |
 | --------------------------- | :-------------------------------------------------------------------------------: | :------------------------: | :--------------------------------------------------------------------------------------------------: |
 | Build an AirBnb Experiences | [Live](https://62e80adc164efc005c7fafcd--flourishing-pegasus-e2dc14.netlify.app/) | TailwindCSS - Vite - React | [Click](<https://www.figma.com/file/OtjeLJCGywhQupcgCVFLwo/Airbnb-Experiences-(Copy)?node-id=0%3A1>) |
+| Travel Journey              |              [Live](https://effulgent-empanada-280536.netlify.app/)               | TailwindCSS - Vite - React |   [Click](<https://www.figma.com/file/iYZ5MH1A2CyHfbJrLAkoxr/Travel-Journal-(Copy)?node-id=2%3A2>)   |
+
+## 03 - Build a meme generator
+
+## 04 - Build a notes app and Tenzies game
